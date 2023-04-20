@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiogoAluai
 - 👀 I’m interested in everything related to science
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Bioinformatics
 - 💞️ I’m looking to collaborate on ambitious projects
 - 📫 How to reach me: diogoaluai@gmail.com
 
