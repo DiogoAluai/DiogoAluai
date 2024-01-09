@@ -1,6 +1,5 @@
 Let's go multiplanetary
 
-How to reach me: diogoaluai@gmail.com
 
 <!---
 DiogoAluai/DiogoAluai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
