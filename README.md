@@ -15,7 +15,7 @@ Started by building an Android app (initially without Android Studio, [check out
 Wanted to build a better looking interface for my work convience scripts. Started with learning about [ncurses](https://github.com/DiogoAluai/ncurses), and eventually set out to create a simpler markup language - STML (Simple Text Markup Language). Here is the repo: [stml-render](https://github.com/DiogoAluai/stml-render).
 
 #### Other
-Home lab and hardware projects adventures is also something I spend some time on, however most of these are in private repositories - feel free to ping me to know more :)  
+Home lab and hardware level adventures is something I also spend time on, however most of these are in private repositories - feel free to ping me to know more :)  
 
 <!---
 DiogoAluai/DiogoAluai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
